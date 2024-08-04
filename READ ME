@@ -1,4 +1,5 @@
 requirements.
 FFmpeg - add ffmpeg to your User Environmental variables.
-Pillow
-psutil
+Pillow - pip install Pillow
+psutil - pip install psutil
+https://www.ffmpeg.org/
