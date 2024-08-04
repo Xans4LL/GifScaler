@@ -1,5 +1,6 @@
 requirements.
-FFmpeg - add ffmpeg to your User Environmental variables.
+FFmpeg - after you extract the file that you download, rename the folder that actually has the files in it to "ffmpeg" then drag it into your C drive, or whatever drive you have, then you add ffmpeg to your User Environmental variables.
+C:\ffmpeg\bin <<<<
 Pillow - pip install Pillow
 psutil - pip install psutil
-https://www.ffmpeg.org/
+https://www.gyan.dev/ffmpeg/builds/
