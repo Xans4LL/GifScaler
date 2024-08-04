@@ -1,0 +1,4 @@
+requirements.
+FFmpeg - add ffmpeg to your User Environmental variables.
+Pillow
+psutil
